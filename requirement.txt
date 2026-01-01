@@ -1,0 +1,7 @@
+langchain
+langchain_community
+langserve
+fastapi
+uvicorn
+Ollama
+sse_starlette
